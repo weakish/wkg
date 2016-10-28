@@ -1,0 +1,9 @@
+- more sites.
+- fallback packages.
+- PREFIX
+- specify versions.
+- `bin` (default to `/usr/local/bin`)
+- `ls` installed packages
+- `update` & `upgrade` & `outdated`
+- `version`
+- `search`
